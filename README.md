@@ -80,6 +80,13 @@ background.show()
 
 ```
 
-
-
 ![image](https://github.com/Srivardhan-T/github-docs-example/assets/56570571/e130c13f-e3c7-4484-9444-f6790332c594)
+
+### Use emojis
+☁️
+🌩️
+👍
+
+## References
+- [GitHub Flavoured Markdown Spec](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
