@@ -7,7 +7,7 @@ Codebkocks in markdown make *very easy* for tech people to share code
 It allows others to copy and paste thier code to replicate or research issues
 
 
-Write a code to **Generate an image** using python 
+Write a code to **Generate an image** with future technologies using python to make it as background image for LinkedIN.
 
 
 ```
@@ -28,7 +28,7 @@ font_size = 60
 font_color = (255, 255, 255)  # White color for text
 
 # You can customize the text and position based on your preference
-text = "Your Name - Future Technology Enthusiast"
+text = "Srivardhan Tumanapally - Future Technology Enthusiast"
 font = ImageFont.truetype("arial.ttf", font_size)
 text_width, text_height = draw.textsize(text, font)
 text_x = (width - text_width) / 2
@@ -41,6 +41,7 @@ background.save("linkedin_background.png")
 
 # Display the image (optional)
 background.show()
+
 ```
 
 With Syntax Highlighter
@@ -63,7 +64,7 @@ font_size = 60
 font_color = (255, 255, 255)  # White color for text
 
 # You can customize the text and position based on your preference
-text = "Your Name - Future Technology Enthusiast"
+text = "Srivardhan Tumanapally - Future Technology Enthusiast"
 font = ImageFont.truetype("arial.ttf", font_size)
 text_width, text_height = draw.textsize(text, font)
 text_x = (width - text_width) / 2
@@ -76,4 +77,9 @@ background.save("linkedin_background.png")
 
 # Display the image (optional)
 background.show()
+
 ```
+
+
+
+![image](https://github.com/Srivardhan-T/github-docs-example/assets/56570571/e130c13f-e3c7-4484-9444-f6790332c594)
